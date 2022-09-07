@@ -80,7 +80,7 @@ export const config = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "自己",
+      name: "初",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
     }, 
@@ -106,7 +106,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
+    {"type": "生日", "name": "张晰婷", "year": "2008", "date": ""},
     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
