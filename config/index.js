@@ -6,7 +6,7 @@ export const config = {
   // 公众号APP_ID 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  // APP_ID: "",
+  // APP_ID: "初",
 
   // 公众号APP_SECRET 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
@@ -18,11 +18,11 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "张晰婷0",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "odL4m6I8pHaHS3zIcR0r9e4CT0Zs	",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "_KHEc4RGbjwwEhS0TL0p9Wv_VVe26o0C2gg_eNXnAg0",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -31,20 +31,20 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "张晰婷0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "_KHEc4RGbjwwEhS0TL0p9Wv_VVe26o0C2gg_eNXnAg0",
       // 所在省份
-      province: "广东",
+      province: "河北",
       // 所在城市
-      city: "肇庆",
+      city: "承德",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
+      name: "张晰婷1", 
       id: "",
       useTemplateId: "",
       province: "",
@@ -52,7 +52,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2",
+      name: "张晰婷2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -60,7 +60,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆3", 
+      name: "张晰婷3", 
       id: "",
       useTemplateId: "",
       province: "",
